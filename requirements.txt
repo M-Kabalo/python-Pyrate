@@ -1,2 +1,9 @@
-requests==1.2.3
-requests-oauthlib==0.3.3
+numpy # pyrate dependency
+scipy # pyrate dependency
+sympy # pyrate dependency
+matplotlib # pyrate dependency
+pyyaml # pyrate dependency
+nose # test automation
+hypothesis # quickcheck
+coverage # test coverage
+coveralls # coveralls.io CI
